@@ -7,4 +7,4 @@
 <br>
 4.field controller and finish
 <br>
-thnks to santri koding : https://santrikoding.com/account/my-courses/laravel-untuk-pemula/1584
+thnks to santri koding 
